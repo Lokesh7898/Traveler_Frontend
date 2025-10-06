@@ -48,7 +48,7 @@ To get the frontend application up and running on your local machine, follow the
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url-for-frontend>
+    git clone https://github.com/Lokesh7898/Traveler_Frontend.git
     cd frontend
     ```
 2.  **Install dependencies:**
