@@ -17,7 +17,7 @@ const handleError = (error) => {
         console.error(`Request Error: ${error.message}`);
     }
     throw error;
-};
+}; 
 
 axiosInstance.interceptors.request.use(
     (config) => {
